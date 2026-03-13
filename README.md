@@ -1,46 +1,32 @@
-# Data Analytics Portfolio
+# Aigerim's Portfolio
 
-This repository contains a collection of my data analytics projects demonstrating skills in:
+## [Project 1: Internet Traffic Analysis](https://github.com/corydonnnn/Internet_traffic_analysis_Python)
 
-- SQL data analysis
-- Python data processing
-- Data visualization
-- Business intelligence dashboards
+This project was done as part of my course certification exam. I analyzed internet traffic data in my home country to uncover patterns and insights.
 
-## Projects
+**Skills used:** Python (pandas, matplotlib), data cleaning, data visualization, basic statistical analysis
 
-### Real Estate SQL Analysis
-Analysis of real estate data including agents, properties, listings, viewings, and deals.
+**Project Goal:** Understand trends and usage patterns in internet traffic.
 
-Skills used:
-- SQL joins
-- Aggregations
-- Window functions
-- Business metrics
+**What I accomplished:** 
+- Cleaned and explored raw traffic data
+- Created visualizations showing traffic trends over time
+- Identified peak usage periods and anomalies
 
-Repository:
-https://github.com/corydonnnn/real-estate-sql-analysis
+**Next Steps / Advice:** Could extend analysis with predictive modeling or compare with data from other countries for benchmarking.
 
+## [Project 2: Real Estate Analysis](https://github.com/corydonnnn/Real_Estate_Analysis_SQL)
 
-### Internet Traffic Python Analysis
-Analysis of telecom internet traffic usage across regions and tariff plans.
+This project was also done as part of my course certification exam. It is focused on analyzing real estate data to identify pricing trends, popular property types, and market insights.
 
-Skills used:
-- Python
-- Pandas
-- Data cleaning
-- Data aggregation
-- Data visualization
+**Skills used:** SQL (data cleaning, queries, aggregation, window functions), Power BI (visualizations, dashboards, reporting)
 
-Repository:
-https://github.com/corydonnnn/internet-traffic-analysis
+**Project Goal:** Explore real estate market trends and generate actionable insights for pricing and demand.
 
+**What I accomplished:**  
+- Cleaned and structured raw property data using SQL  
+- Performed queries to analyze pricing trends by location and property type  
+- Built interactive dashboards in Power BI to visualize market trends  
+- Identified key factors affecting property prices
 
-## Tools & Technologies
-
-- SQL
-- Python
-- Pandas
-- Power BI
-- Git
-- GitHub
+**Next Steps / Advice:** Expand analysis with predictive analytics in Power BI or integrate external economic data for deeper insights.
