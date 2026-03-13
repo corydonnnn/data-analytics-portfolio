@@ -13,9 +13,7 @@ This project was done as part of my course certification exam. This project focu
 - Created visualizations showing traffic trends over time
 - Identified peak usage periods and anomalies
 
-## Power BI Dashboard
-
-![](images/real_estate_dashboard.png)
+![](images/top_regions.png)
 
 **Next Steps / Advice:** Could extend analysis with predictive modeling or compare with data from other countries for benchmarking.
 
@@ -33,6 +31,8 @@ This project was also done as part of my course certification exam. It focused o
 - Built interactive dashboards in Power BI to visualize market trends  
 - Identified key factors affecting property prices
 
-![](images/top_regions.png)
+## Power BI Dashboard
+
+![](images/real_estate_dashboard.png)
 
 **Next Steps / Advice:** Expand analysis with predictive analytics in Power BI or integrate external economic data for deeper insights.
