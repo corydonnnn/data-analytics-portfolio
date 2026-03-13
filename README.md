@@ -13,6 +13,10 @@ This project was done as part of my course certification exam. I analyzed intern
 - Created visualizations showing traffic trends over time
 - Identified peak usage periods and anomalies
 
+## Power BI Dashboard
+
+![Dashboard](images/dashboard.png)
+
 **Next Steps / Advice:** Could extend analysis with predictive modeling or compare with data from other countries for benchmarking.
 
 ## [Project 2: Real Estate Analysis](https://github.com/corydonnnn/Real_Estate_Analysis_SQL)
@@ -28,5 +32,7 @@ This project was also done as part of my course certification exam. It is focuse
 - Performed queries to analyze pricing trends by location and property type  
 - Built interactive dashboards in Power BI to visualize market trends  
 - Identified key factors affecting property prices
+
+![Dashboard](images/top_regions.png)
 
 **Next Steps / Advice:** Expand analysis with predictive analytics in Power BI or integrate external economic data for deeper insights.
