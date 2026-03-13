@@ -47,7 +47,7 @@ Real estate agencies in Bishkek, Kyrgyzstan, needed insights to improve pricing 
 - Revealed listings that never convert, helping optimize marketing and agent efforts  
 - Dashboard enables the agency to monitor trends and make data-driven pricing and sales decisions
 
-## Power BI Dashboard##
+# Power BI Dashboard
 
 ![](images/real_estate_dashboard.png)
 *Figure: Dashboard showing pricing trends and top-performing property types*
