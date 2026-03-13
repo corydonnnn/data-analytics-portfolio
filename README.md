@@ -15,7 +15,7 @@ This project was done as part of my course certification exam. I analyzed intern
 
 ## Power BI Dashboard
 
-![Dashboard](images/dashboard.png)
+![](images/dashboard.png)
 
 **Next Steps / Advice:** Could extend analysis with predictive modeling or compare with data from other countries for benchmarking.
 
