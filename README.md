@@ -33,6 +33,6 @@ This project was also done as part of my course certification exam. It is focuse
 - Built interactive dashboards in Power BI to visualize market trends  
 - Identified key factors affecting property prices
 
-![Dashboard](images/top_regions.png)
+![](images/top_regions.png)
 
 **Next Steps / Advice:** Expand analysis with predictive analytics in Power BI or integrate external economic data for deeper insights.
