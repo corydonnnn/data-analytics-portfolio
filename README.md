@@ -19,7 +19,7 @@ Skills used:
 - Business metrics
 
 Repository:
-https://github.com/yourusername/real-estate-sql-analysis
+https://github.com/corydonnnn/real-estate-sql-analysis
 
 
 ### Internet Traffic Python Analysis
@@ -33,7 +33,7 @@ Skills used:
 - Data visualization
 
 Repository:
-https://github.com/yourusername/internet-traffic-analysis
+https://github.com/corydonnnn/internet-traffic-analysis
 
 
 ## Tools & Technologies
